@@ -9,7 +9,7 @@ This is a simple example of running the Kafka on local docker container with pro
 
 ## Running the producer and client
 
-Clone the project to your local machine. Ensure the docker is running. From the root file run the bellow command. It will run docker-compose.yaml to start all kafka services
+Clone the project to your local machine. Ensure the docker is running. From the root directory run the bellow command. It will run docker-compose.yaml to start all kafka services in local docker container
 
 ```docker
 docker-compose up -d 
