@@ -1,0 +1,20 @@
+2022-11-21 11:42:52 Produced message on topic user-tracker with value of {"user_id": 91360, "user_name": "Albert Mccarty", "user_address": "673 Darius Station | Mercadoland | MZ", "platform": "Mobile", "signup_at": "2022-11-07 17:43:58"}
+
+2022-11-21 11:42:52 Produced message on topic user-tracker2 with value of {"user_id": 91360, "user_name": "Albert Mccarty", "user_address": "673 Darius Station | Mercadoland | MZ", "platform": "Mobile", "signup_at": "2022-11-07 17:43:58"}
+
+2022-11-21 11:42:56 Produced message on topic user-tracker with value of {"user_id": 32869, "user_name": "Lucas Garza", "user_address": "65287 Thornton Station Apt. 223 | Jenniferview | HU", "platform": "Laptop", "signup_at": "2022-11-16 23:01:29"}
+
+2022-11-21 11:42:56 Produced message on topic user-tracker2 with value of {"user_id": 32869, "user_name": "Lucas Garza", "user_address": "65287 Thornton Station Apt. 223 | Jenniferview | HU", "platform": "Laptop", "signup_at": "2022-11-16 23:01:29"}
+
+2022-11-21 11:43:00 Produced message on topic user-tracker2 with value of {"user_id": 86659, "user_name": "Joel Perez", "user_address": "175 Michael Centers Apt. 052 | Port Melissa | UY", "platform": "Laptop", "signup_at": "2022-11-05 17:25:02"}
+
+2022-11-21 11:43:00 Produced message on topic user-tracker with value of {"user_id": 86659, "user_name": "Joel Perez", "user_address": "175 Michael Centers Apt. 052 | Port Melissa | UY", "platform": "Laptop", "signup_at": "2022-11-05 17:25:02"}
+
+2022-11-21 11:43:04 Produced message on topic user-tracker with value of {"user_id": 88889, "user_name": "Lauren Myers", "user_address": "60458 Wolfe Well Apt. 863 | South Crystalstad | TL", "platform": "Tablet", "signup_at": "2022-11-06 17:49:04"}
+
+2022-11-21 11:43:04 Produced message on topic user-tracker2 with value of {"user_id": 88889, "user_name": "Lauren Myers", "user_address": "60458 Wolfe Well Apt. 863 | South Crystalstad | TL", "platform": "Tablet", "signup_at": "2022-11-06 17:49:04"}
+
+2022-11-21 11:43:08 Produced message on topic user-tracker with value of {"user_id": 85209, "user_name": "Richard Flores", "user_address": "406 Michael Lights | East Brandifurt | AM", "platform": "Mobile", "signup_at": "2022-11-10 20:04:22"}
+
+2022-11-21 11:43:08 Produced message on topic user-tracker2 with value of {"user_id": 85209, "user_name": "Richard Flores", "user_address": "406 Michael Lights | East Brandifurt | AM", "platform": "Mobile", "signup_at": "2022-11-10 20:04:22"}
+
