@@ -26,3 +26,17 @@ python kafka_producer.py
 ```
 
 You should be able to see fake user info produced in the producer terminal will show up on the consumer terminal
+
+## Event Hub Version
+
+Create Event Hubs namespace and event hub in Azure Portal. Install required event hub python library
+
+```python
+ pip install azure-eventhub
+```
+
+```python
+ pip install azure-eventhub-checkpointstoreblob-aio
+```
+
+Under the `eventhub\` directory there are two files `eventhub_consumer.py` and `eventhub_producer.py`. Copy event hub namespace connection string and eventhub name from newly create eventhub in azure. Paste the copied connection string and name in the required fields of consumer and producer files. Run both files side by side.
