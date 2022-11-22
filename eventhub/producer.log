@@ -1,0 +1,10 @@
+2022-11-22 13:38:41 Connection b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5' state changed from <ConnectionState.START: 0> to <ConnectionState.START: 0>
+2022-11-22 13:38:41 Connection b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5' state changed from <ConnectionState.START: 0> to <ConnectionState.START: 0>
+2022-11-22 13:38:42 Connection b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5' state changed from <ConnectionState.START: 0> to <ConnectionState.HDR_SENT: 2>
+2022-11-22 13:38:42 Connection b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5' state changed from <ConnectionState.HDR_SENT: 2> to <ConnectionState.HDR_EXCH: 3>
+2022-11-22 13:38:42 Connection b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5' state changed from <ConnectionState.HDR_EXCH: 3> to <ConnectionState.OPEN_SENT: 7>
+2022-11-22 13:38:42 Connection b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5' state changed from <ConnectionState.OPEN_SENT: 7> to <ConnectionState.OPENED: 9>
+2022-11-22 13:38:42 CBS for connection b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5' completed opening with status: 1
+2022-11-22 13:38:42 Token put complete with result: 1, status: 202, description: b'Accepted', connection: b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5'
+2022-11-22 13:38:42 Message sender b'sender-link-d18dbc37-3db5-4513-ae36-dadfb8231ed3' state changed from <MessageSenderState.Idle: 1> to <MessageSenderState.Opening: 2> on connection: b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5'
+2022-11-22 13:38:42 Message sender b'sender-link-d18dbc37-3db5-4513-ae36-dadfb8231ed3' state changed from <MessageSenderState.Opening: 2> to <MessageSenderState.Open: 3> on connection: b'EHProducer-714de4d1-f6ae-4b37-b824-e20bb0108cc5'
